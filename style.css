@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: rgb(255, 194, 134);
+    color: white;
+}
+
+header img {
+    width:70px ;
+    height:70px;
+}
+h1 img{
+    width:150px ;
+    height:150px;
+}
+p img{
+   width:100px ;
+    height:100px; 
+}
+img{
+    width:350px ;
+    height:350px 
+}
+main{
+    text-align: center;
+     border:1px black solid;
+      padding:5px ;
+    background-color: white ;
+    border-radius:5px ;
+}
+footer{
+    text-align: center;
+}
+main p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(247, 189, 0);
+    
+}
+main img{
+    color: aqua;
+    background-color: brown;
+}
+.biz{
+    color: blueviolet;
+    background-color: brown;
+}
+.gallery {
+    border:1px black solid;
+    padding:5px ;
+    background-color: white ;
+    border-radius:5px ;
+}
+.hoy{
+    text-align: center;
+    color: black;
+    background-color:blueviolet;
+}
+.gty{
+    background-color: blueviolet;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border:1px black solid;
+      padding:5px ;
+    background-color: white ;
+    border-radius:5px ;
+}
+h2{
+    color: aqua;
+    border:1px black solid;
+      padding:5px ;
+    background-color: white ;
+    border-radius:5px ;
+}
+h1{
+    border:1px black solid;
+      padding:5px ;
+    background-color: white ;
+    border-radius:5px ;
+}
